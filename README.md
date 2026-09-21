@@ -4,6 +4,15 @@
 
 > Kaynak kod private. Bu depo projenin tanıtım sayfasıdır. İstek üzerine demo yapılabilir.
 
+<table>
+  <tr>
+    <td align="center"><img src="screenshots/site.png" width="200"><br><sub>Ziyaretçi: profil listesi</sub></td>
+    <td align="center"><img src="screenshots/admin-basvurular.png" width="200"><br><sub>Admin: başvurular</sub></td>
+    <td align="center"><img src="screenshots/admin-menu-1.png" width="200"><br><sub>Admin menüsü</sub></td>
+    <td align="center"><img src="screenshots/admin-menu-2.png" width="200"><br><sub>Sistem ayarları</sub></td>
+  </tr>
+</table>
+
 ## Özellikler
 
 **Ziyaretçi**

@@ -2,8 +2,6 @@
 
 **Çok ülkeli profil/ilan rehberi.** Kullanıcılar başvuru formuyla profil oluşturur, admin onaylar, ziyaretçiler ülke ve şehre göre profilleri görür. Öne çıkarma paketleri ücretli olarak satılır.
 
-> Kaynak kod private. Bu depo projenin tanıtım sayfasıdır. İstek üzerine demo yapılabilir.
-
 <table>
   <tr>
     <td align="center"><img src="screenshots/site.png" width="200"><br><sub>Ziyaretçi: profil listesi</sub></td>
